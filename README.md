@@ -17,4 +17,4 @@ POSITION_FILTER_UPDATE, XYZVEL_FILTER_UPDATE, NEDVEL_FILTER_UPDATE, and POSVEL_F
 
 ## Note
 
-Still in update, thank you for your suggestions!
+Still in update, thank you for your suggestions! iXR forever!
