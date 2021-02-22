@@ -6,7 +6,7 @@ GPSTime, rtk_state, Lat, Lon, Height, Vel_x, Vel_y, Vel_z.
 ## IMU format:
 GPSTime, Gyro_x, Gyro_y, Gyro_z, Acc_x, Acc_y, Acc_z.
 
-# Build and Run
+## Build and Run
 
 ## Input
 GNSS frequency, IMU frequency,IMU bias in Kalamn filter Q matrix.
