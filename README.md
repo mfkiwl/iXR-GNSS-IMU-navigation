@@ -1,4 +1,4 @@
-# This is a GNSS/IMU loosly coupling MATLAB program.
+# This is a GNSS/IMU loosely coupling MATLAB program.
 
 ### GNSS format:
 GPSTime, rtk_state, Lat, Lon, Height, Vel_x, Vel_y, Vel_z.
